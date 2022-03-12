@@ -1,4 +1,4 @@
-package day08;
+package day08_ifElse;
 
 import java.util.Scanner;
 
